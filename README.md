@@ -1,7 +1,7 @@
 ![](title.png)
 
 ## About me 🌱
-🎉 I'm a self-taught developer, designer and web artisan! 🎉
+🎉 I'm a self-taught developer, designer and web artisan! 🎉 <br/>
 I love to create things, and I'm always looking for new challenges and opportunities to learn and grow.
 
 ### 📫 How to reach me
