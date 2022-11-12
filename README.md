@@ -16,6 +16,8 @@ I love to create things, and I'm always looking for new challenges and opportuni
 ### My skills 📚
 I mainly create websites with [next.js](https://nextjs.org/) or [laravel](https://laravel.com/) and discord bots with [eris.js](https://abal.moe/Eris/) or some other times.. [discord.js](https://discord.js.org/). <br/> Whenever I am not coding, I am either playing video games whilst talking to friends or drinking hot chocolate and watching netflix.
 
+[#LoveTailwind](https://tailwindcss.com/)
+
 I know the following languages:
 - JavaScript
 - HTML and CSS
@@ -27,4 +29,4 @@ I know the following languages:
 
 Other languages that I am still learning are Java and Rust!
 
-#LoveTailwind
+![aixizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aixizu&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true&include_all_commits=true)
