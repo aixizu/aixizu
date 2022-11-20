@@ -28,5 +28,3 @@ I know the following languages:
 - SQL
 
 Other languages that I am still learning are Java and Rust!
-
-![aixizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aixizu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
