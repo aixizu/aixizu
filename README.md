@@ -18,7 +18,7 @@ I mainly create websites with [next.js](https://nextjs.org/) or [laravel](https:
 
 [#LoveTailwind](https://tailwindcss.com/)
 
-I know the following languages:
+I know the following programming languages:
 - JavaScript
 - HTML and CSS
 - C# 
@@ -28,5 +28,3 @@ I know the following languages:
 - SQL
 
 Other languages that I am still learning are Java and Rust!
-
-![aixizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aixizu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
