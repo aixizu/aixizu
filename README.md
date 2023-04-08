@@ -15,10 +15,9 @@ I mainly create websites with [next.js](https://nextjs.org/) or [laravel](https:
 [#LoveTailwind](https://tailwindcss.com/)
 
 I know the following programming languages:
-- JavaScript
+- JavaScript & TypeScript
 - HTML and CSS
-- C# 
-- C and C++ 
+- C, C# and C++ 
 - PHP 
 - Lua
 - SQL
