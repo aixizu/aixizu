@@ -22,4 +22,4 @@ I know the following programming languages:
 - Lua
 - SQL
 
-Other languages that I am still learning are Java and Rust!
+Other languages that I am still learning are Rust and Ruby!
