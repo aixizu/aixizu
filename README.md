@@ -5,4 +5,6 @@
 ### 📫 How to reach me
 - [Discord]("https://discordapp.com/users/673259444133560333"): aixizu
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/673259444133560333)](https://discord.com/users/673259444133560333)
+
 I'm planning on remaking this soon!
