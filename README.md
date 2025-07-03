@@ -8,3 +8,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/673259444133560333)](https://discord.com/users/673259444133560333)
 
 I'm planning on remaking this soon!
+
+PFP is by [D4rk](https://www.youtube.com/@d4rkv1bez) !!
